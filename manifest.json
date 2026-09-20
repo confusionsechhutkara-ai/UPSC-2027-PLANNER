@@ -1,0 +1,9 @@
+{
+  "name": "211 Day Planner PRO MAX",
+  "short_name": "211 Planner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111827",
+  "description": "Free 211-day study planner with revision, streak, Pomodoro and backup."
+}
